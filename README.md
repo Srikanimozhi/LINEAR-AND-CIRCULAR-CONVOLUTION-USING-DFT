@@ -50,6 +50,7 @@ title('Graphical Representation of output Signal y');
 
 
 ## CIRCULAR CONVOLUTION
+```asm
 clc; 
 clear; 
 x=[1 3 3 2]; 
@@ -94,7 +95,7 @@ plot2d3(n,y);
 xlabel('time'); 
 ylabel('amplitude'); 
 title('circular convolution'); 
-
+```
 
 <br>
 ### CALCULATIONS:
