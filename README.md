@@ -41,9 +41,7 @@ title('Graphical Representation of output Signal y');
 ```
 ### CALCULATIONS:
 <br>
-<br>
-<br>
-<br>
+<img width="888" height="1592" alt="image" src="https://github.com/user-attachments/assets/f2fde2ca-d028-48ea-8317-969512aca954" />
 <br>
 ### SAMPLE OUTPUT:
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/3cad32a5-6d90-4394-8326-0a624337fd83" />
@@ -100,9 +98,8 @@ title('circular convolution');
 <br>
 ### CALCULATIONS:
 <br>
-<br>
-<br>
-<br>
+<img width="1600" height="938" alt="image" src="https://github.com/user-attachments/assets/6fc4c312-cadd-4100-872c-887672a22b5b" />
+
 <br>
 ### SAMPLE OUTPUT:
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/04952ca2-ec12-42f0-894c-a6894d16de68" />
